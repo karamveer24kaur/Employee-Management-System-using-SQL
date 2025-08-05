@@ -64,7 +64,3 @@ A single table named `employees` was created with the following fields:
 - Aggregate functions (AVG, COUNT)
 - Filtering and conditional updates
 - Self-referencing foreign keys
-
-
-## 📂 File Structure
-
